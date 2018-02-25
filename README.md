@@ -1,3 +1,2 @@
 # tesseract
-Repository
-Master Readme
+
